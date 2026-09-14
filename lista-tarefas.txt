@@ -1,0 +1,4 @@
+» Lista de Tarefas
+    » Criar repositório
+    » Criar um arquivo
+    » Fazer um commit
