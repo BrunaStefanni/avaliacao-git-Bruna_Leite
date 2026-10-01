@@ -60,25 +60,30 @@ Para utilizar o projeto, é necessário ter o **MySQL** ou uma ferramenta compat
 5. Executar o ficheiro `Consultas_dados.sql` para testar as consultas.
 6. Verificar os resultados das consultas na base de dados.
 
-Exemplo de uma consulta utilizada no projeto:
-
-```sql
-SELECT * FROM CANDIDATO;
-
 ## Repositório
 
 O código e os ficheiros do projeto estão disponíveis no **GitHub**:
 
 [RECURSOS_HUMANOS — GitHub](https://github.com/BrunaStefanni/RECURSOS_HUMANOS.git)
 
-## Autores
+### Autores
 
 - Bruna Leite
 - Tatiane Medeiros
 - Gabriela Viana
+
 
 **Projeto desenvolvido em grupo para fins académicos.**
 
 *Este projeto foi desenvolvido no âmbito da disciplina de Base de Dados SQL.*
 
 *E este README foi desenvolvido para tarefa 2 no âmbito da disciplina de Git-GitHub.*
+
+
+
+
+### Exemplo de consulta utilizada no projeto:
+
+```sql
+SELECT * FROM CANDIDATO;
+
